@@ -1,1 +1,43 @@
+header{
+    display: flex;
+    flex-direction: row;
+    width: 1103.41px;
+    height: 29.46px;
+    top: 35.02px;
+    left: 171.59px;
+    padding: 0px, 0px, 0px, 0px;
+    background: fixed;
+}
+.header_links{
+    position: absolute;
+    right: 10%;
+    top: auto;
+    width: 234px
+    height: 15px
+    top: 37px
+    left: 1041px
+    
+
+}
+.logo{
+    width: 167.02px;
+    height: 29.46px;
+    top: 35.02px;
+    left: 171.59px;
+}
+main_part{
+    width: 1440px
+    height: 1093px
+
+}
+.main{
+
+}
+.pros{
+    width: 1009px
+    height: 237px
+    top: 758px
+    left: 217px
+
+}
 
